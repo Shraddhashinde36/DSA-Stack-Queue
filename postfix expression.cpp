@@ -77,7 +77,7 @@ int main(void)
         }
     }
 
-    val = s.pop();
+    val =s.pop();
 
     cout << "\nAnswer = " << val;
 
